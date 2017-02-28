@@ -10,7 +10,7 @@ spec = Gem::Specification.new do |s|
   s.homepage = 'https://semantics3.com'
   s.require_paths = %w{lib}
 
-  s.add_dependency('json', '~> 1.8', '>= 1.8.1')
+  s.add_dependency('json', '~> 2.0', '>= 2.0')
   s.add_dependency('oauth', '~> 0.4', '>= 0.4.6')
   s.add_dependency('curb', '~> 0.9', '>= 0.9.3')
 
